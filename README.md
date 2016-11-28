@@ -1,6 +1,6 @@
 # _Template_
 
-#### By _Ewa Manek_
+#### By _Ewa Manek_&_Shelby_Clayton
 
 ## Description
 
